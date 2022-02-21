@@ -1,1 +1,2 @@
-# aulaajuda
+# synchronousBallMovement
+Ball moving synchronously
